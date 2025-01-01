@@ -7,17 +7,17 @@
 
 //=============================\\
 
-Base Ori Created By MannR
-Name Script : FrierenMD
-Creator Script : Draxo
-Version Script : 1.0.0
-Libary : @whiskeysockets/baileys
-Version Libary : ^6.6.0
-Created on Sunday, Sep 1, 2024
+Base Ori Created By MannR\n
+Name Script : FrierenMD\n
+Creator Script : Draxo\n
+Version Script : 1.0.0\n
+Libary : @whiskeysockets/baileys\n
+Version Libary : ^6.6.0\n
+Created on Sunday, Sep 1, 2024\n\n
 
-Thank you to MannR and the module providers and those who use this base.
+Thank you to MannR and the module providers and those who use this base.\n\n
 
-Please use this base as best as possible and do not delete the copyright.
+Please use this base as best as possible and do not delete the copyright.\n\n
 
 © Draxo 2024
 
