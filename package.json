@@ -14,11 +14,11 @@
   "keywords": [
     "bot whatsapp"
   ],
-  "homepage": "https://github.com/MannOffc/shyzu",
+  "homepage": "https://github.com/DraxoGanz/FrierenMD",
   "author": "Draxo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MannOffc/shyzu.git"
+    "url": "git+https://github.com/DraxoGanz/FrierenMD.git"
   },
   "license": "GPL",
   "dependencies": {
